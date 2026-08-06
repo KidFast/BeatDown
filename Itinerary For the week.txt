@@ -1,0 +1,25 @@
+Itinerary For the week
+
+-Change screen view to forced 2d
+
+-Set up fighting controls
+
+on controller X and B will be attack buttons
+up down left right + X/B will make different attacks
+
+-Look into animating in roblox 
+
+-Look at assets(We use dummy assets for now)
+Weapons will be Harmonica and Guitar
+
+-Set up fighting game UI
+
+
+Useful Links
+
+https://www.youtube.com/watch?v=T_jUe1Ln9GM&list=PL4CHT4GnImNgLJiE5Z7WREYQGlJTKISjU
+
+https://www.youtube.com/watch?v=avl2bSyL9ZA
+
+https://www.youtube.com/watch?v=avl2bSyL9ZA
+
