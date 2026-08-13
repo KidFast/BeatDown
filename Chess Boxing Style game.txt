@@ -1,0 +1,23 @@
+Chess Boxing Style game
+
+Game will have a timer, Preferably the length the of the song
+
+will be back and forth rhythm game into fighting game
+
+coin flip will decide which first
+
+We will be developing a chess boxing style game that two players will go head to head a coin flip will start the game to decide whether a fighting match or rhythm will begin things. They will have 45 seconds on each section and a game is won by winning the fight. It will be best  of 3, the rhythm section will determine damage bonuses, health level, etc when the fight starts. Health and stats will reset after each round. Thinking possibly 3min total game
+
+So we have to work on a rhythm and fighting game part
+-Work on at least 2 tracks 
+-For a future thing maybe the rhythm game section could be randomized and based off different popular rhythm game styles
+-Rhythm section will have to go up in difficulty as game progresses.
+
+Things to work on
+Tolu - Rhythm - Robeats
+Sofi - Fighting - Deuling Grounds
+
+Tolu needs to make the basic rhythm game interface, give players note control to hit the notes as they move, do it with a song of choice.
+
+Sofi needs to implement the attacking animations to the right click, see if she can make a dash, block.
+
